@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="HelloWorld/HelloWorld.csproj" />
+  <Project Path="Variables/Variables.csproj" Id="46490583-fe47-4157-9aaf-e0cd4ae4a580" />
 </Solution>
