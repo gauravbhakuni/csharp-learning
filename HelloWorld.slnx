@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="HangmanGame/HangmanGame.csproj" Id="d922a6c4-80fd-4705-96be-cef05cf8b32e" />
   <Project Path="HelloWorld/HelloWorld.csproj" />
+  <Project Path="RockPaperScissor/RockPaperScissor.csproj" Id="9c2e60cb-7a0c-4f55-8599-37e7ef288482" />
   <Project Path="Variables/Variables.csproj" Id="46490583-fe47-4157-9aaf-e0cd4ae4a580" />
 </Solution>
